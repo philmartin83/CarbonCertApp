@@ -12,5 +12,7 @@ Modern SwiftUI Design: Utilise the latest SwiftUI features and best practices fo
 
 ### Technologies Used
 SwiftUI: For building the user interface.
+
 SwiftData: For persisting favorite certificates locally.
+
 XCTest: For unit tests
