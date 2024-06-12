@@ -47,7 +47,7 @@ extension HTTPClient {
         if let ppData = data.prettyPrintedJSONString {
             print(ppData)
         }
-        print(response.statusCode)
+        
         switch response.statusCode {
         case 200...299:
             do {
